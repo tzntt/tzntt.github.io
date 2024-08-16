@@ -1,0 +1,3 @@
+http://example.com/tags/
+http://example.com/hello-world/
+http://example.com/
