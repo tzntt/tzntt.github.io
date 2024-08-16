@@ -1,3 +1,4 @@
-http://example.com/tags/
-http://example.com/hello-world/
-http://example.com/
+https://tzntt.github.io/tags/index-1
+https://tzntt.github.io/tags/
+https://tzntt.github.io/hello-world/
+https://tzntt.github.io/

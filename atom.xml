@@ -3,11 +3,11 @@
   <title>我的第一个博客</title>
   
   <subtitle>我爱学习</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://tzntt.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://tzntt.github.io/"/>
   <updated>1985-10-26T08:15:00.000Z</updated>
-  <id>http://example.com/</id>
+  <id>https://tzntt.github.io/</id>
   
   <author>
     <name>Zinan Tang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/hello-world/"/>
-    <id>http://example.com/hello-world/</id>
+    <link href="https://tzntt.github.io/hello-world/"/>
+    <id>https://tzntt.github.io/hello-world/</id>
     <published>2024-08-07T09:44:03.774Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
