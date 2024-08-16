@@ -1,4 +1,9 @@
-https://tzntt.github.io/tags/index-1
+https://tzntt.github.io/%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/
 https://tzntt.github.io/tags/
-https://tzntt.github.io/hello-world/
+https://tzntt.github.io/categories/
+https://tzntt.github.io/about/
 https://tzntt.github.io/
+https://tzntt.github.io/tags/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF/
+https://tzntt.github.io/tags/Hexo/
+https://tzntt.github.io/tags/%E5%8D%9A%E5%AE%A2/
+https://tzntt.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/
