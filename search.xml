@@ -76,10 +76,11 @@
       </tags>
   </entry>
   <entry>
-    <title>你好，啊钊</title>
+    <title>测试文章</title>
     <url>/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%95%8A%E9%92%8A/</url>
-    <content><![CDATA[<h2 id="你好，啊钊"><a href="#你好，啊钊" class="headerlink" title="你好，啊钊"></a>你好，啊钊</h2><ul>
-<li>我是逆蝶</li>
+    <content><![CDATA[<h2 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h2><ul>
+<li>必须写摘要（excerpt），不然不显示摘要，首页会显示文章的全部内容</li>
+<li>描述（description），可写可不写，如果要用description，在next的_config.yml中配置<code>excerpt_description: true</code>，首页会显示文章的描述</li>
 </ul>
 ]]></content>
       <categories>
